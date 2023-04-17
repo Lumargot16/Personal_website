@@ -1,0 +1,48 @@
+
+body {
+   background-image: url(https://static.vecteezy.com/system/resources/previews/006/671/763/original/abstract-waves-windows-desktop-wallpaper-free-photo.jpg); 
+   background-repeat: no-repeat;
+   background-position: center;
+   margin: 0%;
+}
+.header {
+   color:blue;
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-end;
+   padding: 5PX 5PX;
+      background-image: url(https://static.vecteezy.com/system/resources/previews/006/671/763/original/abstract-waves-windows-desktop-wallpaper-free-photo.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+}
+.name{
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   font-family: Geneva ;
+   font-size: 30px;
+   color: rgb(119, 42, 42);
+}
+section{
+   margin: 10px;
+   border: 1px;
+}
+.navbar{
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-end;
+   align-self: flex-end;
+   color: black;
+   font-size: 26px;
+   font-family: Impact;
+   text-decoration-line: none;
+   margin: 10px;
+   padding: 10px 1px;
+}
+.navbar:hover{
+   color: blue;
+}
+h1{
+   color: rgb(29, 28, 28);
+   font-size: 30px;
+}
